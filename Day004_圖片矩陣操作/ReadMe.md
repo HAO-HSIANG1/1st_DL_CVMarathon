@@ -1,4 +1,4 @@
-# 矩陣操作
+## 矩陣操作
 
 list[start : end : step] #從 Start 位置開始到 End 位置，每次走 Step 步
 
